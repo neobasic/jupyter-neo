@@ -1,1 +1,1 @@
-# notebook-neo
+# jupyter-neo
